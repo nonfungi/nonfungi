@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Afarini 👋
 
-### [cite_start]Agentic AI Engineer [cite: 1]
+### Agentic AI Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-afarini-5a58b6184/" target="_blank">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an AI Engineer with hands-on experience in building and deploying end-to-end machine learning solutions. [cite: 8] [cite_start]I'm proficient in Python and its data science ecosystem (Pandas, Numpy), with proven expertise in developing agentic systems using LangChain and FastAPI. [cite: 9] [cite_start]I'm also skilled in containerization with Docker and managing data pipelines with tools like PostgreSQL and ChromaDB. [cite: 10] [cite_start]I am eager to contribute to building scalable and intelligent AI applications. [cite: 11]
+I am an AI Engineer with hands-on experience in building and deploying end-to-end machine learning solutions. I'm proficient in Python and its data science ecosystem (Pandas, Numpy), with proven expertise in developing agentic systems using LangChain and FastAPI. I'm also skilled in containerization with Docker and managing data pipelines with tools like PostgreSQL and ChromaDB. I am eager to contribute to building scalable and intelligent AI applications.
 
 ---
 
@@ -50,16 +50,16 @@
 ### 🚀 Pinned Projects
 
 #### 🤖 AI Interactive Smart Doll - Backend API
-- [cite_start]Architected and developed the complete backend service for a smart, conversational AI companion designed for educational storytelling. [cite: 33]
-- [cite_start]Implemented a sophisticated RAG pipeline using LangChain and Qdrant for personalized long-term memory. [cite: 33]
-- [cite_start]Containerized the entire application stack (App, DB, Vector DB) using Docker and Docker Compose. [cite: 33]
+- Architected and developed the complete backend service for a smart, conversational AI companion designed for educational storytelling.
+- Implemented a sophisticated RAG pipeline using LangChain and Qdrant for personalized long-term memory.
+- Containerized the entire application stack (App, DB, Vector DB) using Docker and Docker Compose.
 
 #### 🔍 AI Smart Contract Auditor
 - **[Live Demo](https://ai-smart-contract-auditor.streamlit.app/)** | **[Source Code](https://github.com/nonfungi/ai-smart-contract-auditor)**
-- [cite_start]Developed a full-stack AI application using FastAPI for the backend and Streamlit for the interactive UI. [cite: 33]
-- [cite_start]Leveraged a Large Language Model to analyze Solidity code for security vulnerabilities, showcasing advanced prompt engineering skills. [cite: 33]
+- Developed a full-stack AI application using FastAPI for the backend and Streamlit for the interactive UI.
+- Leveraged a Large Language Model to analyze Solidity code for security vulnerabilities, showcasing advanced prompt engineering skills.
 
 #### 🌐 Universal RAG Architectures
-- [cite_start]Hands-on research project implementing and comparing five RAG patterns (Naive, Hybrid, Multi-Vector, Graph RAG, Agentic RAG). [cite: 33]
-- [cite_start]Utilized LangChain, Qdrant, Elasticsearch, and Neo4j. [cite: 33]
-- [cite_start]Fully dockerized with docker-compose and LLM-as-Judge evaluation. [cite: 33]
+- Hands-on research project implementing and comparing five RAG patterns (Naive, Hybrid, Multi-Vector, Graph RAG, Agentic RAG).
+- Utilized LangChain, Qdrant, Elasticsearch, and Neo4j.
+- Fully dockerized with docker-compose and LLM-as-Judge evaluation.
